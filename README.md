@@ -2,8 +2,8 @@
 <h3 align="center">Data Scientist • Backend Developer • AI/ML Engineer • Research-Driven Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/kaungheinhtet">
-    <img src="https://komarev.com/ghpvc/?username=kaungheinhtet&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/KHH-AKA-Lucifer">
+    <img src="https://komarev.com/ghpvc/?username=KHH-AKA-Lucifer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
