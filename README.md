@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Kaung Hein Htet 👋</h1>
-<h3 align="center">Data Scientist • Backend Developer • AI Builder • Research-Driven Engineer</h3>
+<h1 align="center">Hey there 👋, I'm Kaung Hein Htet </h1>
+<h3 align="center">Data Scientist • Backend Developer • AI/ML Engineer • Research-Driven Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/kaungheinhtet">
@@ -70,8 +70,6 @@ My work ranges from **NLP and machine learning** to **financial data pipelines, 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=ffffff" />
 </p>
 
 ### Databases / Infrastructure
@@ -134,8 +132,8 @@ My work ranges from **NLP and machine learning** to **financial data pipelines, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaungheinhtet&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungheinhtet&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KHH-AKA-Lucifer&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHH-AKA-Lucifer&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -156,13 +154,13 @@ My work ranges from **NLP and machine learning** to **financial data pipelines, 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/kaungheinhtet">
+  <a href="https://github.com/KHH-AKA-Lucifer">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/kaung-hein-htet">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:kaungheinhtetutyccmm@.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
