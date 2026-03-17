@@ -137,7 +137,7 @@ My work ranges from **NLP and machine learning** to **financial data pipelines, 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaungheinhtet&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KHH-AKA-Lucifer&theme=radical&hide_border=true" />
 </p>
 
 ---
